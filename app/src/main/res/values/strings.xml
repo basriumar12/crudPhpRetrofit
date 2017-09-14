@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Crud Sederhana</string>
+    <string name="nama_siswa">Nama Siswa</string>
+    <string name="titikdua">:</string>
+    <string name="domisili">Domisili</string>
+</resources>
